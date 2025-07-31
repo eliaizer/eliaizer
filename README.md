@@ -4,7 +4,7 @@
 - 💞️ I’m looking for cooperation everywhere
 - 📫 How to reach me [list on my bio](https://eliaizer.github.io/)
 - ⚡ Fun fact: when i started studying computer science i thought HTML was a programming language (i still cringe) and I still don't know English
-
+<pre>
 HTML:  🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜
 
 CSS:   🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜
@@ -32,3 +32,4 @@ MD:    🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
 SQL:   🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜
 
 Go:    ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+</pre>

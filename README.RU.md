@@ -53,6 +53,8 @@
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![OpenClaw](https://img.shields.io/badge/OpenClaw-1F6FEB?style=for-the-badge)
 ![IoT](https://img.shields.io/badge/IoT-0A66C2?style=for-the-badge)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 

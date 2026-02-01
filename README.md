@@ -1,3 +1,4 @@
+[🇷🇺 Русская версия](README.RU.md)
 # Hi, I’m @eliaizer
 
 A student and beginner developer from Saint Petersburg.  

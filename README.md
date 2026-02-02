@@ -1,10 +1,7 @@
 [🇷🇺 Русская версия](README.RU.md)
 # Hi, I’m @eliaizer
 
-A student and beginner developer from Saint Petersburg.  
-I study and work, while learning system and applied programming in parallel.
-
-I’m interested in **how everything works under the hood**: from HTML and APIs to Linux, containers, and low-level things.
+I'm more into backend or logical questions and building a system. I can do frontend, but I'm lazy. There's too much typing. There's a lot planned (maybe even too much).
 
 ---
 
@@ -26,6 +23,7 @@ I’m interested in **how everything works under the hood**: from HTML and APIs 
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -33,10 +31,12 @@ I’m interested in **how everything works under the hood**: from HTML and APIs 
 ### Systems and tools
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=fff&style=for-the-badge)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)\
+![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=fff&style=for-the-badge)
 
 ### Programming concepts
 ![Algorithms](https://img.shields.io/badge/Algorithms%20%26%20Data%20Structures-2B2B2B?style=for-the-badge)
